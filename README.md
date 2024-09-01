@@ -58,5 +58,7 @@
 
 #### 4. 기타
 - 코딩테스트로 연습하기
-- Swift, Android 최신 트랜드 지속 공부
+- Swift 이론 공부 
+- Android 이론 공부 
+- Flutter 이론 공부
 - 심화 학습
